@@ -1,16 +1,16 @@
-# adv_basics
+# Flutter Quiz App
 
-A new Flutter project.
+## Overview
+A simple Flutter app for creating and taking quizzes.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
+- Start the app, take the quiz, and view the results.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<div style="display: flex; justify-content: center; max-width: 100%; margin: 0 auto;">
+  <img style="flex: 0 0 30%; margin-right: 1%;" src="https://github.com/neidogn/QuizApp/assets/92841499/2cedde9f-f462-413a-a043-bed9319f2d7f" width="200" alt="Màn hình Bắt đầu">
+  <img style="flex: 0 0 30%; margin-right: 1%;" src="https://github.com/neidogn/QuizApp/assets/92841499/175a9030-218d-4f37-889c-1a9de001bf9c" width="200" alt="Màn hình Câu hỏi">
+  <img style="flex: 0 0 30%;" src="https://github.com/neidogn/QuizApp/assets/92841499/2cb6ed4e-b3cb-4223-9a24-9286e64d8c96" width="200" alt="Màn hình Kết quả">
+</div>
